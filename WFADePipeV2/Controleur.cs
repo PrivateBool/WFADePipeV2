@@ -30,11 +30,11 @@ namespace WFADePipeV2
             hasard = r.Next(0, 2);
             if (hasard == 0)
             {
-                DeOrdinaire = new DeOrdinaire();                
+                deOrdinaire = new DeOrdinaire();
             }
             else
             {
-                DePipe = new DePipe();
+                dePipe = new DePipe();
             }
         }
         public int Brasser(int hasard) 

@@ -11,6 +11,7 @@ namespace WFADePipeV2
         public DeOrdinaire() : base("Dé ordinaire")
         {
         }
+
         public override void Brasser()
         {
             this.Valeur = (int)(Math.Ceiling((hasard.NextDouble()) * this.NombreDeFace));

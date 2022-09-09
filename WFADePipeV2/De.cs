@@ -11,7 +11,7 @@ namespace WFADePipeV2
         private int valeur;
         private int nombreDeFace = 6;
         private string typeDeDe;
-        public Random hasard = new Random();
+        protected Random hasard = new Random();
         public int Valeur { get => valeur; set => valeur = value; }
         public int NombreDeFace { get => nombreDeFace;}
         public string TypeDeDe { get => typeDeDe; set => typeDeDe = value; }

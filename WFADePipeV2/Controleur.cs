@@ -11,7 +11,7 @@ namespace WFADePipeV2
         private int totalObtenu = 0;
         private DeOrdinaire deOrdinaire;
         private DePipe dePipe;
-        public int hasard;
+        private int hasard;
         public Controleur()
         {
             this.totalObtenu = 0;
@@ -37,7 +37,7 @@ namespace WFADePipeV2
                 DePipe = new DePipe();
             }
         }
-        public int Brasser(int Hasard) 
+        public int Brasser(int hasard) 
         {
             if (hasard == 0)
             {

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFADePipeV2", "WFADePipeV2\WFADePipeV2.csproj", "{23B6A6C3-92CC-4D7D-8FDC-4C547E3C6398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B6A6C3-92CC-4D7D-8FDC-4C547E3C6398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B6A6C3-92CC-4D7D-8FDC-4C547E3C6398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B6A6C3-92CC-4D7D-8FDC-4C547E3C6398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B6A6C3-92CC-4D7D-8FDC-4C547E3C6398}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBB6A9EC-4E31-4CFD-85F1-9E4C84A2D53E}
+	EndGlobalSection
+EndGlobal
